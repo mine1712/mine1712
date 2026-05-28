@@ -12,10 +12,10 @@ Soy una persona detallista y proactiva. Me motiva enormemente la gestión admini
 
 ---
 
-## 📊 Mis Porcentajes de Lenguajes más Usados
+## 📊 Mis Lenguajes de Programación Principales
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=mine1712&layout=compact&theme=visual_studio_dark&langs_count=7&card_width=450&count_private=true" alt="Porcentaje de Lenguajes de Minerva" />
+  <img src="https://golyglot.vercel.app/api/languages?langs=java,cpp,ruby,html,sql&theme=dark" alt="Lenguajes de Minerva" />
 </p>
 
 ---
@@ -26,9 +26,9 @@ Soy una persona detallista y proactiva. Me motiva enormemente la gestión admini
 <p align="left">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
 </p>
 
 ### 📊 Gestión, Digital y Diseño
@@ -77,4 +77,4 @@ Soy una persona detallista y proactiva. Me motiva enormemente la gestión admini
   </a>
 </p>
 
-📍 Ubicación: Granada, España
+📍 Ubicación:  Granada, España
