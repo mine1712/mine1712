@@ -4,12 +4,12 @@
 
 ## 👩‍💻 Sobre Mí
 
-Estudiante del **Doble Grado en ADE e Ingeniería Informática** en la **Universidad de Granada**, especializada en **Ingeniería del Software**. 
+[cite_start]Estudiante del **Doble Grado en ADE e Ingeniería Informática** en la **Universidad de Granada**, especializada en **Ingeniería del Software**[cite: 6, 7]. 
 
-Soy una persona detallista y proactiva. Me motiva enormemente la gestión administrativa y el diseño de sistemas eficientes para aportar valor, optimizar recursos y dar soluciones tecnológicas y empresariales.
+[cite_start]Soy una persona detallista y proactiva[cite: 4]. [cite_start]Me motiva enormemente la gestión administrativa y el diseño de sistemas eficientes para aportar valor, optimizar recursos y dar soluciones tecnológicas y empresariales[cite: 4].
 
-- 🌍 Realicé una movilidad Erasmus en **Chulalongkorn University, Tailandia** (2024).
-- 🕒 Disponibilidad actual: **Turno de tarde**.
+- [cite_start]🌍 Realicé una movilidad Erasmus en **Chulalongkorn University, Tailandia** (2024)[cite: 8].
+- [cite_start]🕒 Disponibilidad actual: **Turno de tarde**[cite: 36].
 
 ---
 
@@ -31,15 +31,14 @@ Soy una persona detallista y proactiva. Me motiva enormemente la gestión admini
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
-> **Gestión Empresarial:** Organización de proyectos, archivo, atención al cliente y formación certificada en sistemas de gestión ambiental en la empresa.
+> [cite_start]**Gestión Empresarial:** Organización de proyectos, archivo, atención al cliente y formación certificada en sistemas de gestión ambiental en la empresa[cite: 16, 17, 29].
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📈 Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mine1712&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Minerva" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mine1712&layout=compact&theme=visual_studio_dark" alt="Lenguajes más usados" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mine1712&theme=visual-studio-dark&hide_border=true" alt="Estadísticas de Actividad de Minerva" />
 </p>
 
 ---
@@ -50,25 +49,25 @@ Soy una persona detallista y proactiva. Me motiva enormemente la gestión admini
   <summary><b>🔍 Ver Experiencia Profesional (Ficzone)</b></summary>
   <br>
   
-  - **Atención al público y gestión de accesos** (Marzo 2026).
-  - **Gestión de accesos:** Validación digital mediante escaneo de códigos QR para el control de asistencia.
-  - **Atención al cliente:** Resolución de dudas, orientación y apoyo a los participantes.
-  - **Seguridad y control:** Supervisión de zonas de alto valor y áreas tecnológicas (Realidad Virtual).
+  - [cite_start]**Atención al público y gestión de accesos** (Marzo 2026)[cite: 19, 20, 21].
+  - [cite_start]**Gestión de accesos:** Validación digital mediante escaneo de códigos QR para el control de asistencia[cite: 24].
+  - [cite_start]**Atención al cliente:** Resolución de dudas, orientación y apoyo a los participantes[cite: 25].
+  - [cite_start]**Seguridad y control:** Supervisión de zonas de alto valor y áreas tecnológicas (Realidad Virtual)[cite: 26].
 </details>
 
 <details>
   <summary><b>📚 Ver Formación Complementaria</b></summary>
   <br>
   
-  - **Taller de Impresión 3D (6h)** | E.T.S. de Ingenierías Informática y de Telecomunicación, UGR.
-  - **Certificado en Sistema de gestión ambiental en la empresa** | GDOCE.
+  - **Taller de Impresión 3D (6h)** | [cite_start]E.T.S. de Ingenierías Informática y de Telecomunicación, UGR[cite: 14, 15].
+  - **Certificado en Sistema de gestión ambiental en la empresa** | [cite_start]GDOCE[cite: 16].
 </details>
 
 ---
 
 ## 🌐 Idiomas
 - 🇪🇸 **Español:** Nativo
-- 🇬🇧 **Inglés:** Nivel B2 (Certificado TOEFL)
+- [cite_start]🇬🇧 **Inglés:** Nivel B2 (Certificado TOEFL)[cite: 35].
 
 ---
 
@@ -79,4 +78,4 @@ Soy una persona detallista y proactiva. Me motiva enormemente la gestión admini
   </a>
 </p>
 
-📍 Ubicación: Peligros, Granada, España
+[cite_start]📍 Ubicación: Peligros, Granada, España [cite: 2]
