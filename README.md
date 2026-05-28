@@ -12,15 +12,10 @@ Soy una persona detallista y proactiva. Me motiva enormemente la gestión admini
 
 ---
 
-
-## 📊 Mi Actividad y Código en Tiempo Real
-
+## 📊 Mis Porcentajes de Lenguajes Reales
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mine1712&theme=react-dark&area=true&hide_border=true" alt="Gráfico de Actividad en Tiempo Real de Minerva" width="100%" />
+  <img src="https://github-readme-smco.vercel.app/api/language-stats?username=mine1712&theme=visual_studio_dark" alt="Porcentajes de Lenguajes de Minerva" />
 </p>
-
-> 💡 *Esta gráfica rastrea automáticamente todos tus push y commits en tiempo real, reflejando tu trabajo diario tanto en tus repositorios como en proyectos compartidos.*
-
 ---
 
 ## 🛠️ Mi Tech Stack (Competencias)
