@@ -14,8 +14,8 @@ Soy una persona detallista y proactiva. Me motiva enormemente la gestión admini
 
 ## 📊 Mis Porcentajes de Lenguajes Reales
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mine1712&layout=compact&theme=visual_studio_dark&hide_title=true&hide_border=true&card_width=400&count_private=true" alt="Porcentajes de Lenguajes de Minerva" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mine1712&layout=compact&theme=visual_studio_dark&langs_count=7&hide_title=true" alt="Porcentajes de Lenguajes Reales de Minerva" />
 </p>
 ---
 
