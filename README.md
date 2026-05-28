@@ -39,4 +39,4 @@ Soy una persona detallista y proactiva. Me motiva enormemente la gestión admini
 ### 📫 ¡Hablemos!
 Si quieres conectar conmigo, hablar sobre proyectos o conocer más de mi perfil:
 - 📧 Correo: [minervacebrian@gmail.com](mailto:minervacebrian@gmail.com)
-- 📍 Ubicación: Peligros, Granada, España
+- 📍 Ubicación: Granada, España
