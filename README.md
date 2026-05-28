@@ -12,11 +12,14 @@ Soy una persona detallista y proactiva. Me motiva enormemente la gestión admini
 
 ---
 
-## 📊 Mis Lenguajes de Programación Principales
+
+## 📊 Mi Actividad y Código en Tiempo Real
 
 <p align="center">
-  <img src="https://golyglot.vercel.app/api/languages?langs=java,cpp,ruby,html,sql&theme=dark" alt="Lenguajes de Minerva" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mine1712&theme=react-dark&area=true&hide_border=true" alt="Gráfico de Actividad en Tiempo Real de Minerva" width="100%" />
 </p>
+
+> 💡 *Esta gráfica rastrea automáticamente todos tus push y commits en tiempo real, reflejando tu trabajo diario tanto en tus repositorios como en proyectos compartidos.*
 
 ---
 
