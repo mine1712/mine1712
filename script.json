@@ -1,0 +1,10 @@
+{"version": 2, "width": 80, "height": 15, "timestamp": 1716922800, "env": {"TERM": "xterm-256color"}}
+[0.0, "o", "mine1712@ugr-inf:~# ./presentacion.sh\r\n"]
+[0.5, "o", "[+] Cargando datos de perfil: Minerva Cebrián\r\n"]
+[1.0, "o", "[+] Especialidad: Ingeniería del Software y ADE\r\n"]
+[1.5, "o", "[+] Ubicación: Granada, España\r\n\r\n"]
+[2.5, "o", "mine1712@ugr-inf:~# cat erasmus.txt\r\n"]
+[3.2, "o", "> Chulalongkorn University, Tailandia (2024) 🌍\r\n\r\n"]
+[4.2, "o", "mine1712@ugr-inf:~# check_competencias --resumen\r\n"]
+[4.8, "o", "[INFO] Tecnologías: C++, Java, Ruby, MySQL, Excel, Canva\r\n\r\n"]
+[6.0, "o", "mine1712@ugr-inf:~# clear\r\n"]
