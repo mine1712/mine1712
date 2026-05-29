@@ -10,13 +10,12 @@ Soy una persona detallista y proactiva. Me motiva enormemente la gestión admini
 
 - 🌍 Realicé una movilidad Erasmus en **Chulalongkorn University, Tailandia** (2024).
 
-
 ---
 
 ## 📊 Mis Porcentajes de Lenguajes (Tiempo Real con WakaTime)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mine1712&layout=compact&theme=visual_studio_dark&langs_count=7&hide_title=true" alt="Porcentajes de Lenguajes Reales de Minerva" />
+  <img src="https://anuraghazra-github-readme-stats.vercel.app/api/wakatime?username=mine1712&layout=compact&theme=visual_studio_dark&langs_count=7&hide_title=true&api_domain=wakatime.com" alt="Porcentajes de Lenguajes Reales de Minerva" />
 </p>
 
 ---
