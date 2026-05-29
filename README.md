@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=¡Hola!,%20soy%20Minerva%20✨&subtitle=Doble%20Grado%20en%20ADE%20%2B%20Ingeniería%20Informática&fontSize=40&animation=fadeIn" alt="Banner de Minerva" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs?username=mine1712&layout=compact&theme=visual_studio_dark&langs_count=7&count_private=true" alt="Porcentajes de Lenguajes Reales de Minerva" />
 </p>
 
 ## 👩‍💻 Sobre Mí
